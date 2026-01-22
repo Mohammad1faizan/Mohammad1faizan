@@ -36,6 +36,7 @@ My key focus areas are efficiency, security, reliability, and scalability in sof
 
 **📚 Tech Stack & Tools**
 
+
 **Tool	Description.**
 
 **Terraform:**	Infrastructure as Code (IaC) for cloud automation.
@@ -54,6 +55,7 @@ My key focus areas are efficiency, security, reliability, and scalability in sof
 
 **ArgoCD:**	Kubernetes GitOps deployments
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **📂 Featured Projects**
 
@@ -64,6 +66,8 @@ My key focus areas are efficiency, security, reliability, and scalability in sof
 
 **Infrastructure Automation** – Terraform-based cloud provisioning
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **DevOps**
  
 
@@ -71,5 +75,7 @@ My key focus areas are efficiency, security, reliability, and scalability in sof
 
    
 📫 How to reach me?
-Connect with me on LinkedIn 👨🏻‍💻
-Shoot Me an Email 💌
+
+LinkedIn 👨🏻‍💻 
+
+Email 💌mohdfaizan028@gmail.com
